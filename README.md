@@ -33,8 +33,7 @@ Next.js と Supabase を使って開発している
 ■ フロントエンド
 ・Next.js
 ・React
-・TypeScript
-・Tailwind CSS
+
 
 ■ バックエンド
 ・Supabase（認証・データベース）
